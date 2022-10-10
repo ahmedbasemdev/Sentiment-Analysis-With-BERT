@@ -1,6 +1,7 @@
 # Sentiment-Analysis-With-BERT
 ## What is BERT?
 BERT stands for Bidirectional Encoder Representations from Transformers
+
 ![image](https://user-images.githubusercontent.com/81481676/194920937-23194a40-deba-4cdc-9b83-f0d66f7b2e91.png)
 
 
